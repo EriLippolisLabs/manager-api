@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: manager-api
+  profiles:
+    active: local
+
+##  security:
+##    user:
+##      name: "admin"
+##      password: "admin"
+
+## Para custumizar o caminho da documentação.
+##springdoc:
+##  api-docs:
+##    path: /api-docs
+##  swagger-ui:
+##    path: /swagger-ui.html
